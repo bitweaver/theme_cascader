@@ -1,1 +1,2 @@
+/* crappy hack for safari to allow overflow setting on <pre> in tables */
 .edit .tabpane .bittable pre	{width:300px;}
